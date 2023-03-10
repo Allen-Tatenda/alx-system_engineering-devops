@@ -1,2 +1,2 @@
-#!/bin/bash
+# Magic file for detecting SCHOOL files
 0 string SCHOOL \b school file
