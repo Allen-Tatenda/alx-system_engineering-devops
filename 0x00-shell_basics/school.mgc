@@ -1,2 +1,2 @@
-# Magic file for detecting SCHOOL files
-0 string SCHOOL \b school file
+0 string SCHOOL School data
+!:mime School
